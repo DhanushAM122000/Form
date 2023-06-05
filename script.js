@@ -8,10 +8,6 @@ signupBtn.onclick=function(){
     nameField.style.display="block";
 }
 
-signupBtn.onclick=function(){
-    title.innerHTML="Sign Up";
-    nameField.style.display="block";
-}
 signinBtn.onclick=function(){
     title.innerHTML="Login";
     nameField.style.display="none";
